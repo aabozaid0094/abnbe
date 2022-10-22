@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/abnbe/static/css/main.ba3e2c3a.css",
-    "main.js": "/abnbe/static/js/main.e54ab06f.js",
+    "main.js": "/abnbe/static/js/main.48449ce2.js",
     "static/js/787.89804c31.chunk.js": "/abnbe/static/js/787.89804c31.chunk.js",
-    "static/media/photo-grid.png": "/abnbe/static/media/photo-grid.294d59b66b94e0e456cf.png",
-    "static/media/katie-zaferes.png": "/abnbe/static/media/katie-zaferes.8c39a93af3d2de2b3c27.png",
-    "static/media/airbnb-logo.png": "/abnbe/static/media/airbnb-logo.e4424517383d14a03a24.png",
+    "static/media/photo-grid.png": "/abnbe/static/media/photo-grid.62b0546cc6a6649fa8e1.png",
+    "static/media/katie-zaferes.png": "/abnbe/static/media/katie-zaferes.98444a4feb67a00f3a5e.png",
+    "static/media/airbnb-logo.png": "/abnbe/static/media/airbnb-logo.133dee503598c3359513.png",
     "index.html": "/abnbe/index.html",
     "main.ba3e2c3a.css.map": "/abnbe/static/css/main.ba3e2c3a.css.map",
-    "main.e54ab06f.js.map": "/abnbe/static/js/main.e54ab06f.js.map",
+    "main.48449ce2.js.map": "/abnbe/static/js/main.48449ce2.js.map",
     "787.89804c31.chunk.js.map": "/abnbe/static/js/787.89804c31.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ba3e2c3a.css",
-    "static/js/main.e54ab06f.js"
+    "static/js/main.48449ce2.js"
   ]
 }
